@@ -41,57 +41,57 @@
     "contributes": {
         "themes": [
             {
-                "label": "Noctis Lux",
+                "label": "Noctis xul Lux",
                 "uiTheme": "vs",
                 "path": "./themes/lux.json"
             },
             {
-                "label": "Noctis Hibernus",
+                "label": "Noctis xul Hibernus",
                 "uiTheme": "vs",
                 "path": "./themes/hibernus.json"
             },
             {
-                "label": "Noctis Lilac",
+                "label": "Noctis xul Lilac",
                 "uiTheme": "vs",
                 "path": "./themes/lilac.json"
             },
             {
-                "label": "Noctis",
+                "label": "Noctis xul",
                 "uiTheme": "vs-dark",
                 "path": "./themes/noctis.json"
             },
             {
-                "label": "Noctis Azureus",
+                "label": "Noctis xul Azureus",
                 "uiTheme": "vs-dark",
                 "path": "./themes/azureus.json"
             },
             {
-                "label": "Noctis Bordo",
+                "label": "Noctis xul Bordo",
                 "uiTheme": "vs-dark",
                 "path": "./themes/bordo.json"
             },
             {
-                "label": "Noctis Obscuro",
+                "label": "Noctis xul Obscuro",
                 "uiTheme": "vs-dark",
                 "path": "./themes/obscuro.json"
             },
             {
-                "label": "Noctis Sereno",
+                "label": "Noctis xul Sereno",
                 "uiTheme": "vs-dark",
                 "path": "./themes/sereno.json"
             },
             {
-                "label": "Noctis Uva",
+                "label": "Noctis xul Uva",
                 "uiTheme": "vs-dark",
                 "path": "./themes/uva.json"
             },
             {
-                "label": "Noctis Viola",
+                "label": "Noctis xul Viola",
                 "uiTheme": "vs-dark",
                 "path": "./themes/viola.json"
             },
             {
-                "label": "Noctis Minimus",
+                "label": "Noctis xul Minimus",
                 "uiTheme": "vs-dark",
                 "path": "./themes/minimus.json"
             }
